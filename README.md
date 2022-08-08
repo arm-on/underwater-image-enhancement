@@ -1,6 +1,7 @@
 # Underwater Image Enhancement
 Table of Contents
 - [Intro](#introduction)
+- [Applications](#applications)
 - [References](#references)
 
 # Introduction
@@ -8,7 +9,7 @@ The quality of the images taken under water may degrade due to factors such as m
 
 # Applications
 
-One may ask "Why would we even bother to enhance underwater images?". The answer is that those images can help us identify the objects existing under the water. For instance, we can detect if a cable exists somewhere and examine other underwater infrastructure. 
+One may ask "Why would we even bother to enhance underwater images?". The answer is that those images can help us identify the objects existing under the water. For instance, we can detect if a cable exists somewhere and examine other underwater infrastructure. Also, knowledge of the underwater objects may be useful for marine biologists and archaeologists.
 
 # References
 1. Ancuti, C. O., Ancuti, C., De Vleeschouwer, C., & Bekaert, P. (2017). Color balance and fusion for underwater image enhancement. IEEE Transactions on image processing, 27(1), 379-393.
