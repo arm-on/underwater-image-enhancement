@@ -14,7 +14,8 @@ One may ask "Why would we even bother to enhance underwater images?". The answer
 
 # Example
 
-
+![Original Image](original-sample.png)
+![Enhanced Image](fused-sample.png)
 
 # References
 1. Ancuti, C. O., Ancuti, C., De Vleeschouwer, C., & Bekaert, P. (2017). Color balance and fusion for underwater image enhancement. IEEE Transactions on image processing, 27(1), 379-393.
