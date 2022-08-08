@@ -25,7 +25,7 @@ One may ask "Why would we even bother to enhance underwater images?". The answer
 
 ## White-Balancing
 
-test
+To compensate for the changes in the light propagation direction caused by medium scattering, we apply white-balancing to the image. We chose the Gray-World Algorithm to reach this goal.
 
 $$I_{rc}(x)=I_r(x)+\alpha(\bar{I}_g-\bar{I}_r)(1-I_r(x))I_g(x)$$
 
