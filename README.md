@@ -1,7 +1,7 @@
 # Underwater Image Enhancement
 Table of Contents
-- [Intro][#introduction]
-- [References][#references]
+- [Intro](#introduction)
+- [References](#references)
 
 # Introduction
 The quality of the images taken under water may degrade due to factors such as medium scattering and absorption. The absorption substantially reduces the light energy, while the scattering causes changes in the light propagation direction. This degradation may cause the image to have low contrast or to contain a layer of fog. 
