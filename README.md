@@ -3,7 +3,7 @@ Table of Contents
 - [Intro](#introduction)
 - [Applications](#applications)
 - [Method](#method)
--- [White Balancing](#white-balancing)
+  - [White Balancing](##white-balancing)
 - [Example](#example)
 - [References](#references)
 
