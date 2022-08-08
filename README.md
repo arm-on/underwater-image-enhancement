@@ -22,6 +22,8 @@ test
 
 test
 
+$$I_{rc}(x)=I_r(x)+\alpha(\bar{I}_g-\bar{I}_r)(1-I_r(x))I_g(x)$$
+
 # Example
 
 Original Image             |  Enhanced Image
