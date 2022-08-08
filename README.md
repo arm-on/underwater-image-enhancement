@@ -16,7 +16,7 @@ One may ask "Why would we even bother to enhance underwater images?". The answer
 
 # Method
 
-test
+![Method](process.png)
 
 ## White-Balancing
 
