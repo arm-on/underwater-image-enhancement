@@ -4,6 +4,9 @@ Table of Contents
 - [Applications](#applications)
 - [Method](#method)
   - [White Balancing](#white-balancing)
+  - [Gamma Correction](#gamma-correction)
+  - [Sharpening](#sharpening)
+  - [Fusion](#fusion)
 - [Example](#example)
 - [References](#references)
 
@@ -23,6 +26,12 @@ One may ask "Why would we even bother to enhance underwater images?". The answer
 test
 
 $$I_{rc}(x)=I_r(x)+\alpha(\bar{I}_g-\bar{I}_r)(1-I_r(x))I_g(x)$$
+
+## Gamma Correction
+
+## Sharpening
+
+## Fusion
 
 # Example
 
