@@ -2,6 +2,8 @@
 Table of Contents
 - [Intro](#introduction)
 - [Applications](#applications)
+- [Method](#method)
+-- [White Balancing](#white-balancing)
 - [Example](#example)
 - [References](#references)
 
@@ -11,6 +13,14 @@ The quality of the images taken under water may degrade due to factors such as m
 # Applications
 
 One may ask "Why would we even bother to enhance underwater images?". The answer is that those images can help us identify the objects existing under the water. For instance, we can detect if a cable exists somewhere and examine other underwater infrastructure. Also, knowledge of the underwater objects may be useful for marine biologists and archaeologists.
+
+# Method
+
+test
+
+## White-Balancing
+
+test
 
 # Example
 
