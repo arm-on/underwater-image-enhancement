@@ -45,6 +45,8 @@ We prepare a sharpened version of the picture to compensate for the details lost
 
 ## Fusion
 
+At this step, we combine the Gamma-Corrected and Sharpened versions of the image to obtain the enhanced image. The details of this combination is written in the paper [1].
+
 [Back to Top](#)
 
 # Example
