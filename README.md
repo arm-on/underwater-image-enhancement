@@ -25,7 +25,7 @@ One may ask "Why would we even bother to enhance underwater images?". The answer
 
 ## White-Balancing
 
-To compensate for the changes in the light propagation direction caused by medium scattering, we apply white-balancing to the image. We chose the Gray-World Algorithm to reach this goal. This algorithm was designed based on the assumption that the color in each sensor channel averages to gray over the entire image. The formula for applying the algorithm to a given image in our case simplifies to:
+To compensate for the changes in the light propagation direction caused by medium scattering, which is visible as some kind of shades of unwanted colors on an image taken under water, we apply white-balancing to the image. We chose the Gray-World Algorithm to reach this goal. This algorithm was designed based on the assumption that the color in each sensor channel averages to gray over the entire image. The formula for applying the algorithm to a given image in our case simplifies to:
 
 $$I_{rc}(x)=I_r(x)+\alpha(\bar{I}_g-\bar{I}_r)(1-I_r(x))I_g(x)$$
 
