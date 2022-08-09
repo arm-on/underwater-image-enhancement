@@ -7,6 +7,7 @@ Table of Contents
   - [Gamma Correction](#gamma-correction)
   - [Sharpening](#sharpening)
   - [Fusion](#fusion)
+- [Usage](#usage)
 - [Example](#example)
 - [References](#references)
 
@@ -48,6 +49,10 @@ We prepare a sharpened version of the picture to compensate for the details lost
 At this step, we combine the Gamma-Corrected and Sharpened versions of the image to obtain the enhanced image. The details of this combination is written in the paper [1].
 
 [Back to Top](#)
+
+# Usage
+
+There are two folders in this repo: "code-all-in-one" and "code-section-by-section". The former contains a MATLAB script named "main_all_in_one.m" which has everything we need to give an image and produce the enhanced output. The latter one consists of many MATLAB scripts each corresponding to a part of the original code. For instance, "apply_gray_world.m" applies the Gray-World algorithm to the picture.
 
 # Example
 
