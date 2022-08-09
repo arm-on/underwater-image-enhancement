@@ -36,13 +36,19 @@ where $x$ is the position of a pixel, $I_{rc}$ is the new (corrected) intensity 
 3. According to the Gray-World Theory, the amount of the green channel's contribution to the red channel's compensation should be proportional to the difference of red and green average intensity levels.
 4. The compensation process for the red channel should only be applied to the highly distorted regions.
 
+[Back to Top](#)
+
 ## Gamma Correction
 
 To increase the contrast between the lighter and darker regions, we use the "Gamma Correction" procedure. This results in losing some of the details of the picture. Assuming that a pixel has an initial intensity of $i$, we will replace this intensity with $\alpha * i^{\gamma}$ where $\alpha$ and $\gamma$ are two constants.
 
+[Back to Top](#)
+
 ## Sharpening
 
 We prepare a sharpened version of the picture to compensate for the details lost due to the "Gamma Correction". To do this, we use the "Unsharp Masking" method. The process is done as follows: 1. Make a blurry version of the image by applying a Gaussian filter to it. 2. Calculate the difference of the original image and the blurry version. 3. Add the difference to the original image.
+
+[Back to Top](#)
 
 ## Fusion
 
@@ -53,6 +59,8 @@ At this step, we combine the Gamma-Corrected and Sharpened versions of the image
 # Usage
 
 There are two folders in this repo: "code-all-in-one" and "code-section-by-section". The former contains a MATLAB script named "main_all_in_one.m" which has everything we need to give an image and produce the enhanced output. The latter one consists of many MATLAB scripts each corresponding to a part of the original code. For instance, "apply_gray_world.m" applies the Gray-World algorithm to the picture.
+
+[Back to Top](#)
 
 # Example
 
