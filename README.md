@@ -41,6 +41,8 @@ To increase the contrast between the lighter and darker regions, we use the "Gam
 
 ## Sharpening
 
+We prepare a sharpened version of the picture to compensate for the details lost due to the "Gamma Correction". To do this, we use the "Unsharp Masking" method. The process is done as follows: 1. Make a blurry version of the image by applying a Gaussian filter to it. 2. Calculate the difference of the original image and the blurry version. 3. Add the difference to the original image.
+
 ## Fusion
 
 [Back to Top](#)
