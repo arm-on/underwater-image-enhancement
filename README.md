@@ -29,7 +29,7 @@ To compensate for the changes in the light propagation direction caused by mediu
 
 $$I_{rc}(x)=I_r(x)+\alpha(\bar{I}_g-\bar{I}_r)(1-I_r(x))I_g(x)$$
 
-where $x$ is the position of a pixel, $I_{rc}$ is the new (corrected) intensity level of that pixel corresponding to the red channel, $I_r$ and $I_g$ correspond to the red and green color channels of the image $I$. Note that the image should be normalized so that the intensity levels in each channel belong to the $[0,1]$ interval. Also, $\bar{I}_g$ and $\bar{I}_r$
+where $x$ is the position of a pixel, $I_{rc}$ is the new (corrected) intensity level of that pixel corresponding to the red channel, $I_r$ and $I_g$ correspond to the red and green color channels of the image $I$. Note that the image should be normalized so that the intensity levels in each channel belong to the $[0,1]$ interval. Also, $\bar{I}_g$ and $\bar{I}_r$ represent the average intensity level of the green and red channels, respectively.
 
 ## Gamma Correction
 
