@@ -9,6 +9,7 @@ Table of Contents
   - [Fusion](#fusion)
 - [Usage](#usage)
 - [Example](#example)
+- [Persian Report](#persian-report)
 - [References](#references)
 
 # Introduction
@@ -67,6 +68,10 @@ There are two folders in this repo: "code-all-in-one" and "code-section-by-secti
 Original Image             |  Enhanced Image
 :-------------------------:|:-------------------------:
 ![Original Image](original-sample.png)  |  ![Enhanced Image](fused-sample.png)
+
+# Persian Report
+
+A Persian report of the implementation is also available [here](Persian-Report.pdf).
 
 # References
 1. Ancuti, C. O., Ancuti, C., De Vleeschouwer, C., & Bekaert, P. (2017). Color balance and fusion for underwater image enhancement. IEEE Transactions on image processing, 27(1), 379-393.
