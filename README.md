@@ -37,6 +37,8 @@ where $x$ is the position of a pixel, $I_{rc}$ is the new (corrected) intensity 
 
 ## Gamma Correction
 
+To increase the contrast between the lighter and darker regions, we use the "Gamma Correction" procedure. This results in losing some of the details of the picture. Assuming that a pixel has an initial intensity of $i$, we will replace this intensity with $\alpha * i^{\gamma}$ where $\alpha$ and $\gamma$ are two constants.
+
 ## Sharpening
 
 ## Fusion
